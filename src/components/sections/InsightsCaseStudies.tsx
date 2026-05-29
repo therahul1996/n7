@@ -5,22 +5,22 @@ const CASE_STUDIES = [
   {
     title: "How we help brand reach out to more people",
     company: "Zoomerr",
-    image: "/Frame 54.png"
+    image: "/frame-54.png"
   },
   {
     title: "Revolutionizing digital payments across the globe",
     company: "PayStream",
-    image: "/Frame 54.png"
+    image: "/frame-54.png"
   },
   {
     title: "Securing the future of decentralized finance",
     company: "Crypton",
-    image: "/Frame 54.png"
+    image: "/frame-54.png"
   },
   {
     title: "Empowering next-gen neo banking solutions",
     company: "NeoFi",
-    image: "/Frame 54.png"
+    image: "/frame-54.png"
   }
 ];
 
@@ -59,7 +59,7 @@ export default function InsightsCaseStudies() {
           {/* Top Wide Card */}
           <div data-aos="fade-up" data-aos-delay="200" className="w-full bg-[#070d17] rounded-[24px] overflow-hidden flex flex-col sm:flex-row border border-white/5">
             <div className="w-full sm:w-[45%] h-[200px] sm:h-auto  flex items-center justify-center p-6">
-              <img src="/Frame 54.png" alt="" className="w-full h-full object-cover rounded-2xl" />
+              <img src="/frame-54.png" alt="" className="w-full h-full object-cover rounded-2xl" />
             </div>
             <div className="w-full sm:w-[55%] p-8 md:p-10 flex flex-col justify-center">
               <div className="text-[#1c769a] text-[10px] font-normal tracking-[0.15em] uppercase font-['Chivo_Mono'] mb-4">
